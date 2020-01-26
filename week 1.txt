@@ -1,0 +1,20 @@
+AI is the new electricity
+
+1. Neural Networks and Deep Learning
+2. Improving Deep Neutral Networks: Hyperparameter tuning, Regularization and Optimization
+3. Structuring your Machine Learning Project
+4. Convolutional Neural Networks
+5. Natural Language Processing: Building sequence models
+
+
+What is a neural network?
+Housing Price Prediction
+
+Relu
+Rectified linear unit
+
+----
+so neuron is just a funtion? a neuro network is a set of functions?
+----
+
+
