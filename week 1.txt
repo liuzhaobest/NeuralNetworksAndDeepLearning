@@ -18,3 +18,21 @@ so neuron is just a funtion? a neuro network is a set of functions?
 ----
 
 
+supervised learning
+
+standard nn
+cnn .  image
+rnn .  sequence
+
+structured data
+databased data
+
+unstructured data
+audio
+image
+text
+
+
+god father of dl
+Geoffrey Hinton
+
