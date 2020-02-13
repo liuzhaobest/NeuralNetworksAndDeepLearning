@@ -11,3 +11,38 @@ X = [x1, x2, x3........ xm]
 logistic regression
 given x, want y-hat = p(y=1|x)
 
+y-hat is the chance of y is 1
+
+y-hat = sigmoid(WtX + B)
+
+sigmoid(z) = (1+e^-z)^-1
+
+we are trying to find a suitable w and b
+
+loss function = L(y-hat, y) = 1/2 (y-hat - y)^2
+
+what we use in logistic regression
+L(y,hat,y) = -(ylog(y-hat) + (1-y)log(1-y-hat))
+loss function is something for you to compare the parameter is good or not
+it will be used to update you parameters
+
+loss function is for a single training example
+
+cost function is the average for the total cost of a training set(average loss)
+
+gradient descent
+minimize cost function
+
+try to find the most suitable w and b for this training set
+
+convex function -> only one minimum
+
+w := w - a(dJ(w)/d(w))
+w := w - adw
+
+
+
+
+
+
+
